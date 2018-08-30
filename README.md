@@ -1,6 +1,12 @@
-# jetbrains-react
-
+# Jetbrains React
 React snippets([live templates](https://www.jetbrains.com/help/idea/2016.1/live-templates.html)) for JetBrains series editors (e.g. WebStorm, PHPStorm, IntelliJ IDEA, etc.), stolen from [sublime-react](https://github.com/reactjs/sublime-react) and [phpstorm-reactjs](https://github.com/geochatz/phpstorm-reactjs).
+
+# Upcoming Snippets:
+  * `componentDidCatch()` - cdc
+  * Redux Live Templates
+  * `export const LARGE_STRING_WITH_SAME_CONSTANT_VALUE = "LARGE_STRING_WITH_SAME_CONSTANT_VALUE";`
+  * `export default connect()`
+  * `react-router` switches
 
 ## Installation
 
